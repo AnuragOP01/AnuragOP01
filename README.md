@@ -65,14 +65,6 @@ I'm a Full Stack Developer passionate about building scalable web applications w
 - **LeetCode:** Solved 200+ problems  
 - **CodeChef:** 2⭐ rated coder
 
----
-
-## 📈 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragOP01&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragOP01&layout=compact&theme=tokyonight)
-
----
 
 > 💡 _“Always learning, always building.”_
 

@@ -67,8 +67,4 @@ I'm a Full Stack Developer passionate about building scalable web applications w
 
 ---
 
-## 📊 GitHub Contribution Activity
-
-![GitHub Contributions](https://res.cloudinary.com/dlbdfowtm/image/upload/v1749713677/Screenshot_2025-06-12_125941_jsdjdn.png)
-
 > 💡 _“Always learning, always building.”_

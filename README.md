@@ -65,6 +65,4 @@ I'm a Full Stack Developer passionate about building scalable web applications w
 - **LeetCode:** Solved 200+ problems  
 - **CodeChef:** 2⭐ rated coder
 
----
-
 > 💡 _“Always learning, always building.”_
